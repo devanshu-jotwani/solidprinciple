@@ -5,4 +5,4 @@ Different Programs that follows the solid principle are implemented in this repo
 
 
 
-DeatBeat Internship
+Databeat Internship
